@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Great Quotes</string>
+    <string name="personal">Personal info</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="select_gender">Select gender...</string>
+    <string name="quote">Quote</string>
+    <string name="quotes">Quotes</string>
+    <string name="done">Done</string>
+    <string name="back">Back</string>
+    <string name="minimum_field_length">Minimum number of characters is</string>
+    <string name="alert_required_fields">Please, fill every required field properly!</string>
+    <string name="alert_delete">Are you sure you want to delete quote?</string>
+    <string name="delete">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>
